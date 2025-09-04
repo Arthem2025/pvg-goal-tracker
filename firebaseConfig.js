@@ -6,12 +6,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAIb8FmAgApQXPTibX1KtDdWUxZukeudZI",
-  authDomain: "mobile-app---tracker-75153.firebaseapp.com",
-  projectId: "mobile-app---tracker-75153",
-  storageBucket: "mobile-app---tracker-75153.firebasestorage.app",
-  messagingSenderId: "519305501011",
-  appId: "1:519305501011:web:80dbf709298558f68629a6"
+  apiKey: "AIzaSyDkZR6uy5jZq4EVl3zl95FmAiPOrbaXk5c",
+  authDomain: "mobile-app---tracker.firebaseapp.com",
+  projectId: "mobile-app---tracker",
+  storageBucket: "mobile-app---tracker.firebasestorage.app",
+  messagingSenderId: "380942075572",
+  appId: "1:380942075572:web:ca5b0c8899c31b4a35b9e1"
 };
 
 // Initialize Firebase
